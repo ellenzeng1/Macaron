@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Macaron (Lab02)</string>
+    <string name="increment">Increment</string>
+    <string name="greet_dad">Hello Dad</string>
+    <string name="decrement">Decrement</string>
+    <string name="greeting">ezbakes</string>
+</resources>
